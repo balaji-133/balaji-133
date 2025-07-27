@@ -1,73 +1,125 @@
-<!-- Animated Header with Typing Effect -->
-<h1 align="center">
-  Hi there, I'm Balaji! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
-</h1>
-<p align="center">
-  <a href="https://github.com/balaji-133">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A6FFF&width=435&lines=Passionate+Developer;MERN+Stack+Enthusiast;Loves+Python%2C+C%2C+Java;Machine+Learning+Practitioner;Open+to+Collaborations+%F0%9F%92%BB" alt="Typing SVG" />
-  </a>
-</p>
+## 🛠️ Skills & Technologies
 
-<!-- Github Stats Cards -->
-<p align="center">
-  <a href="https://github.com/balaji-133">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balaji-133&show_icons=true&theme=radical" alt="balaji-133 stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaji-133&layout=compact&theme=radical" alt="balaji-133 top languages"/>
-  </a>
-</p>
+<!-- Add custom CSS for animation and popups on hover -->
+<style>
+.tech-icon-group {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-bottom: 12px;
+}
+.tech-icon {
+  position: relative;
+  display: inline-block;
+  transition: transform 0.2s, filter 0.2s;
+  cursor: pointer;
+}
+.tech-icon:hover {
+  transform: scale(1.15) rotate(-5deg);
+  filter: drop-shadow(0 0 10px #0a6fff99);
+  z-index: 2;
+}
+.tech-popup {
+  visibility: hidden;
+  opacity: 0;
+  background: #2d3748e6;
+  color: #fff;
+  text-align: center;
+  border-radius: 7px;
+  position: absolute;
+  bottom: 65px;
+  left: 50%;
+  width: max-content;
+  transform: translateX(-50%);
+  padding: 7px 15px;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 15px #0003;
+  transition: opacity 0.2s, visibility 0.2s;
+  pointer-events: none;
+  white-space: nowrap;
+}
+.tech-icon:hover .tech-popup {
+  visibility: visible;
+  opacity: 1;
+}
+</style>
 
-<!-- Commit Graph Animation -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=balaji-133&bg_color=1e222e&color=6d6d6d&line=5A8DEE&point=403d3d&area_color=5A8DEE&hide_border=true" alt="GitHub Commit Graph" />
-</p>
+### 👨‍💻 Programming Languages
 
-## 🚀 About Me
-- 🔭 I’m currently working on **MERN stack and Machine Learning projects**
-- 🌱 I’m currently learning **Scikit-Learn, Deep Learning, Advanced React**
-- 👯 I’m looking to collaborate on **Open Source ML projects**
-- 🤔 I’m looking for help with **System Design & Large-Scale ML**
-- 💬 Ask me about **Python, C++, Java, MERN stack, ML**
-- 📫 How to reach me: [balaji.133@gmail.com](mailto:balaji.133@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love competitive programming and hackathons!
+<div class="tech-icon-group">
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
+    <div class="tech-popup">C: Structure & Systems Programming</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+    <div class="tech-popup">C++: OOP, Competitive Coding</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
+    <div class="tech-popup">Java: Web & Enterprise Apps</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+    <div class="tech-popup">Python: ML, Scripting, Automation</div>
+  </div>
+</div>
 
-## 🛠️ Languages and Tools
+### 🌐 Web Development
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-</p>
+<div class="tech-icon-group">
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+    <div class="tech-popup">HTML5: Modern Web Markup</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+    <div class="tech-popup">CSS3: Responsive Design</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+    <div class="tech-popup">JavaScript: Dynamic Frontend Coding</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
+    <div class="tech-popup">React: SPA, UI Components</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" title="Express.js"/>
+    <div class="tech-popup">Express.js: Node Backend</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+    <div class="tech-popup">Node.js: JS Server Runtime</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+    <div class="tech-popup">MongoDB: NoSQL Cloud DB</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+    <div class="tech-popup">PostgreSQL: Advanced SQL DB</div>
+  </div>
+</div>
 
-## 📊 GitHub Stats and Analytics
+### 🤖 Machine Learning & Data Science
 
-- **Total Public Repositories:** ![Repos](https://img.shields.io/github/repos/balaji-133?style=flat-square&color=blue)
-- **Total Commits (Public):** ![Commits](https://img.shields.io/github/commit-activity/y/balaji-133/balaji-133?style=flat-square)
-- **Years on GitHub:** ![Years](https://img.shields.io/github/membersince/balaji-133?style=flat-square)
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:balaji.133@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/balaji-133/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://balaji-133.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
-</p>
-
-<!-- Visitor counter 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balaji-133&style=for-the-badge"/>
-</p>
--->
-
-<!-- SVG Animation Divider -->
-<img src="https://raw.githubusercontent.com/balaji-133/balaji-133/output/snake.svg" alt="Snake animation" />
-
+<div class="tech-icon-group">
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" title="NumPy"/>
+    <div class="tech-popup">NumPy: Arrays & Math</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas"/>
+    <div class="tech-popup">Pandas: Data Analysis</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50" title="Scikit-learn"/>
+    <div class="tech-popup">Scikit-learn: ML Algorithms</div>
+  </div>
+  <div class="tech-icon">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" title="Matplotlib"/>
+    <div class="tech-popup">Matplotlib: Data Visualization</div>
+  </div>
+</div>
