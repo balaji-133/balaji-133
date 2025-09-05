@@ -48,11 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
 </p>
 
-## 📊 GitHub Stats and Analytics
 
-- **Total Public Repositories:** ![Repos](https://img.shields.io/github/repos/balaji-133?style=flat-square&color=blue)
-- **Total Commits (Public):** ![Commits](https://img.shields.io/github/commit-activity/y/balaji-133/balaji-133?style=flat-square)
-- **Years on GitHub:** ![Years](https://img.shields.io/github/membersince/balaji-133?style=flat-square)
 
 ## 🔗 Connect with Me
 
