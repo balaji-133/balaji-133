@@ -62,12 +62,4 @@
   <a href="https://balaji-133.github.io"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=about-dot-me&logoColor=white"></a>
 </p>
 
-<!-- Visitor counter 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balaji-133&style=for-the-badge"/>
-</p>
--->
-
-<!-- SVG Animation Divider -->
-<img src="https://raw.githubusercontent.com/balaji-133/balaji-133/output/snake.svg" alt="Snake animation" />
 
